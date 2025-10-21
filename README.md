@@ -1,6 +1,6 @@
-# [Re] Implementation of [论文标题]
+# [Re] Implementation of [Infrared Image Denoising Algorithm Based on Least Squares Fitting]
 
-This repository contains a reimplementation of the paper "[]" by [作者名] published at [会议/期刊名].
+This repository contains a reimplementation of the paper "[Infrared Image Denoising Algorithm Based on Least Squares Fitting]" by [Lu Peng] published at [Chinese Journal of Sensors and Actuators 2024].
 
 ## 📖 Original Paper
 - **Title:** [Infrared Image Denoising Algorithm Based on Least Squares Fitting]
@@ -26,5 +26,6 @@ scipy>=1.7.0
 # Clone this repository
 git clone https://github.com/Icarus-K-Laplace/lsq-infrared-denoising.git
 cd lsq-infrared-denoising
+
 
 # Install dependencies
