@@ -1,0 +1,8 @@
+## Dataset
+
+The experiments in this repository were conducted using the **FLIR Thermal Dataset**.
+
+- **Source**: [FLIR Thermal Dataset Starter Edition](https://www.flir.com/oem/adas/adas-dataset-form/)
+- **Description**: The dataset contains thermal images captured with a FLIR thermal camera, which is well-suited for training and evaluating infrared image processing algorithms.
+- **Usage in this project**: We utilize the thermal image sequences for evaluating the performance of our denoising algorithm. The original, clean frames are treated as ground truth for calculating PSNR and SSIM metrics.
+- **License**: Please refer to the [FLIR Dataset License Agreement](https://www.flir.com/oem/adas/adas-dataset-form/) for terms of use.
